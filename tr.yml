@@ -1,0 +1,20 @@
+# navbar
+login: Giriş Yap
+register: Kayıt Ol
+search: Ara
+# sidebar/bottombar 
+home: Ana Sayfa
+subs: Abonelikler
+upload: Yükle
+popular: Popüler
+more: Daha Fazla
+settings: Ayarlar
+
+# reusable?
+maintenance: Bakım
+site_is_down_for_maintenance: Site bakım nedeniyle kapalıdır
+
+username: Kullanıcı Adı
+password: Şifre
+confirm_password: Şifreyi Onayla
+i_agree_to_the_terms_of_service: Kullanım Koşulları'nı kabul ediyorum
