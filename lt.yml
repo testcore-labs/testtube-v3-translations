@@ -1,0 +1,20 @@
+# navbar
+login: prisijungti
+register: registruotis
+search: ieškoti
+# sidebar/bottombar 
+home: pradžia
+subs: prenumeratos
+upload: įkelti
+popular: populiariausi
+more: daugiau
+settings: nustatymai
+
+# reusable?
+maintenance: techninė priežiūra
+site_is_down_for_maintenance: svetainė nepasiekiamas dėl techninės priežiūros
+
+username: vartotojo vardas
+password: slaptažodis
+confirm_password: patvirtinti slaptažodį
+i_agree_to_the_terms_of_service: aš sutinku su svetaines sąlygomis
