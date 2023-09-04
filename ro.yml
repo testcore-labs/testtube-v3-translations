@@ -1,0 +1,20 @@
+# navbar
+login: conectare
+register: înregistreaza-te
+search: căutare
+# sidebar/bottombar 
+home: acasă
+subs: abonamente
+upload: încărcati
+popular: popular
+more: mai mult
+settings: settings
+
+# reusable?
+maintenance: maintenance
+site_is_down_for_maintenance: site is down for maintenance
+
+username: nume de utilizator
+password: parolă
+confirm_password: confirmare parolă
+i_agree_to_the_terms_of_service: sunt de acord cu termenii si condițile
