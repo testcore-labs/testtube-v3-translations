@@ -1,0 +1,20 @@
+# navbar
+login: login
+register: register
+search: search
+# sidebar/bottombar 
+home: home
+subs: subs
+upload: upload
+popular: popular
+more: more
+settings: settings
+
+# reusable?
+maintenance: maintenance
+site_is_down_for_maintenance: site is down for maintenance
+
+username: username
+password: password
+confirm_password: confirm password
+i_agree_to_the_terms_of_service: i agree to the terms of service
