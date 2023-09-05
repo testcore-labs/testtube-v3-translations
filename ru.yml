@@ -1,1 +1,20 @@
+# navbar
+login: вход
+register: регистрация
+search: поиск
+# sidebar/bottombar 
+home: дом
+subs: подписчики
+upload: выложить
+popular: популярно
+more: больше
+settings: настройки
 
+# reusable?
+maintenance: обслуживание
+site_is_down_for_maintenance: сайт отключен для обслуживания
+
+username: имя пользователя
+password: пароль
+confirm_password: подтвердите пароль
+i_agree_to_the_terms_of_service: я согласен с условиями предоставления услуг
