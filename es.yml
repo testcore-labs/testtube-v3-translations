@@ -1,0 +1,20 @@
+# navbar
+login: iniciar sesión
+register: registrar
+search: buscar
+# sidebar/bottombar 
+home: casa
+subs: subs
+upload: subir
+popular: popular
+more: más
+settings: configuración
+
+# reusable?
+maintenance: mantenimiento
+site_is_down_for_maintenance: sitio esta en mantenimiento
+
+username: nombre de usuario
+password: contraseña
+confirm_password: confirmar contraseña
+i_agree_to_the_terms_of_service: apruebo con los términos de servicio.
