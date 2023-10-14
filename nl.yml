@@ -1,0 +1,20 @@
+# navbar
+login: login
+register: registreer
+search: zoeken-
+# sidebar/bottombar 
+home: home
+subs: abonnees
+upload: uploaden
+popular: populair
+more: meer
+settings: instellingen
+
+# reusable?
+maintenance: onderhoud
+site_is_down_for_maintenance: website is onbereikbaar voor onderhoud
+
+username: gebruikersnaam
+password: wachtwoord
+confirm_password: wachtwoord bevestigen
+i_agree_to_the_terms_of_service: ik ga akkoord met de algemene voorwaarden
