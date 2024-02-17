@@ -1,0 +1,20 @@
+# navbar
+login: se connecter
+register: créer un compte
+search: chercher
+# sidebar/bottombar 
+home: accueil
+subs: abonnées
+upload: mettre en ligne
+popular: populaire
+more: plus
+settings: paramètres
+
+# reusable?
+maintenance: maintenance
+site_is_down_for_maintenance: le site est éteint pour une maintenance
+
+username: pseudo
+password: mot de passe
+confirm_password: confirmer le mot de passe
+i_agree_to_the_terms_of_service: j'accepte les conditions d'utilisations
